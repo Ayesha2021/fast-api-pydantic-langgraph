@@ -1,0 +1,11 @@
+[project]
+name = "fast-api-pydantic-langgraph"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "jupyterlab>=4.6.4",
+    "pydantic>=2.14.1",
+]
